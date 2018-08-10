@@ -1,7 +1,7 @@
 ## IconButton
 
 
-###特性：
+### 特性：
 实现Button和CheckBox的文本和compactDrawable整体居中对齐或者文本居中对齐
 
 ### 思路
@@ -9,6 +9,7 @@
 一般的，使用组合控件实现如下的UI效果。
 
 ![button](./dist/iconbutton.png)
+
 ![checkbox](./dist/iconcheckbox.png)
 
 使用这种方式增加了布局层级，而且筛选的样式还需要自己处理箭头的朝向。
